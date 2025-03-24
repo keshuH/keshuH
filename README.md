@@ -132,17 +132,33 @@
 - **📡 Semiconductor Protocols & System Design** – Strong understanding of AXI, AMBA, MIPI, I2C, SPI, UART with real-world implementation experience.
 
 ## 💼 Industry Experience
-### 🔹 RTL Design Intern – NIELIT, India
-📌 Designed and verified high-efficiency RTL modules for FPGA-based systems, optimizing logic efficiency and improving power consumption.
-📌 Conducted static timing analysis and functional verification, reducing design iterations and accelerating project completion.
 
-### 🔹 FPGA Hardware Acceleration Intern – Maven Silicon, India
-📌 Led FPGA-based accelerator design and optimization using HLS and RTL methodologies, achieving performance improvement and reducing development time.
-📌 Optimized synthesis, place-and-route, and power constraints to ensure successful timing closure and error-free execution.
+### 🚀 **Internship in RTL Design Using Verilog HDL**  
+**National Institute of Electronics & Information Technology (NIELIT)**  
+📅 *May 2024 – June 2024*  
+- 🏗️ Designed and implemented a **32-bit processor using Verilog HDL**, achieving **100% functional verification** through simulation.
+- 🚀 Optimized pipeline structure, **reducing critical path delay by 15%**.
+- ⚡ Developed a **systolic array architecture** for high-performance computation, increasing data processing speed by **40%** and reducing resource utilization by **30%**.
+- 🖥️ Completed an **OLED implementation project for FPGA**, integrating **IP cores and AXI bus**, resulting in **25% faster data transfer rates** and **20% reduced power consumption** through clock gating.
 
-### 🔹 RTL Design & Verification Intern – Maven Silicon, India
-📌 Developed UVM-based verification testbenches, achieving high functional coverage and significantly reducing post-silicon bugs.
-📌 Conducted functional and gate-level simulations, reducing debug time and ensuring timing closure across multiple digital designs.
+---
+
+### 🔐 **Security Architecture Intern**  
+**Excelerate**  
+📅 *May 2023 – June 2023*  
+- 🖥️ Implemented **virtualization environments using VMware**, improving **system performance by 25%** for threat assessment testing.
+- 🛡️ Engineered **secure virtual machines with custom security tools**, reducing vulnerabilities by **40%**.
+- 📑 Developed **technical documentation and infrastructure design proposals**, **streamlining project implementation by 30%**.
+
+---
+
+### 🤖 **AI and Data Analysis Intern**  
+**Cognizant**  
+📅 *January 2022 – June 2022*  
+- 📊 Completed a **machine learning lifecycle program**, applying **data analysis techniques** to improve model accuracy by **20%**.
+- 🧠 Developed a **neural network model using TensorFlow**, achieving **90% accuracy in pattern recognition**.
+- 🛠️ Utilized **Python and Pandas** for **exploratory data analysis**, extracting **actionable insights** from complex datasets.
+
 
 ## 🔬 Key Projects & Research Contributions
 - **🖥️ 32-Bit Pipelined CPU with ALU Optimization**  
