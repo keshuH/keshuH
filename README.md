@@ -159,6 +159,21 @@
 - 🧠 Developed a **neural network model using TensorFlow**, achieving **90% accuracy in pattern recognition**.
 - 🛠️ Utilized **Python and Pandas** for **exploratory data analysis**, extracting **actionable insights** from complex datasets.
 
+- ## Academic Tutor (Self-Employed)
+*August 2020 – present*
+
+
+- 📚 Provided personalized tutoring in Mathematics, Science, and Programming languages (C Language) to students ranging from 6th grade to undergraduate levels. 
+
+- 🎯 Specialized in preparing students for competitive exams such as EAMCET and JEE, tailoring study plans to individual needs.
+
+- 👩‍🏫 Assisted undergraduate peers in mastering challenging subjects including Engineering Graphics, Digital Signal Processing, and Control Systems, contributing to improved academic performance.
+
+- 🏆 Achieved 'A' grades in Digital Signal Processing and Control Systems, demonstrating a strong grasp of complex concepts.
+
+- 🌟 Tutored over 30 students, leading to significant improvements in their grades and a deeper understanding of the subjects.
+
+
 
 ## 🔬 Key Projects & Research Contributions
 - **🖥️ 32-Bit Pipelined CPU with ALU Optimization**  
@@ -171,7 +186,7 @@
   *Designed an 8-bit accumulator with high DRC/LVS compliance, enhancing manufacturability.*
 
 ## 📜 Certifications & Technical Achievements
-- **🏆 Cadence RTL-to-GDSII Flow Certification** (2024)
-- **🏆 Essential SystemVerilog for UVM – Cadence** (2024)
-- **🏆 Basic Static Timing Analysis Certification** (2024)
-- **🏆 Digital IC Design Fundamentals – Cadence** (2024)
+- **🏆 Cadence RTL-to-GDSII Flow Certification** (2025)
+- **🏆 Essential SystemVerilog for UVM – Cadence** (2025)
+- **🏆 Basic Static Timing Analysis Certification** (2025)
+- **🏆 Digital IC Design Fundamentals – Cadence** (2025)
