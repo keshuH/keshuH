@@ -25,7 +25,6 @@
 ✅ Designed **FPGA & ASIC hardware accelerators** for ML models & optimized digital circuits 🚀  
 
 📚 **Relevant Coursework:**  
-🔹 **Advanced Computer Architecture** 🖥️  
 🔹 **Analysis & Design of Integrated Circuits** 🔍  
 🔹 **Introduction to VLSI Design** 🏗️  
 🔹 **Digital System-on-Chip Design** ⚙️  
