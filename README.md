@@ -1,6 +1,6 @@
 # 🚀 Hey there! I'm Keshava! 👋 😊
 
-🔹 **VLSI Design | RTL Design & Verification | FPGA/ASIC Development | Hardware Acceleration**
+🔹 **VLSI Design | RTL Design & Verification | FPGA/ASIC Development | Physical Design | Hardware Acceleration**
 
 ## 💡 About Me
 💡 I enjoy diving into VLSI Design, Hardware Acceleration, and Semiconductor Technologies to develop efficient systems and solve complex problems.  
